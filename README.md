@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm currently studying 'Systems engineering and software development'<br>ツI'm looking for collaborate with others developers<br>💻I'm learning web development <br>⭐I'm looking for team working 
+🎓I'm currently studying 'Systems engineering and software development'<br>📱I'm looking for collaborate with others developers<br>💻I'm learning web development <br>⭐I'm looking for team working 
 
 
 ## 🌐 Socials:
