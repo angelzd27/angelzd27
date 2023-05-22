@@ -21,8 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=angelzd27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Dev Image
+<img src="https://vignette.wikia.nocookie.net/vete-a-la-versh/images/d/dc/Captura.PNG/revision/latest?cb=20170212002117&path-prefix=es" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=angelzd27&icon=9&color=1)](https://visitcount.itsvg.in)
