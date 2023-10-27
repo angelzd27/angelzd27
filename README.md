@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Systems engineering and software developer'<br>📱Collaborating with others developers<br>💻Web and mobile development <br>⭐MOIS company member
+🎓Systems engineering and software developer<br>📱Collaborating with others developers<br>💻Web and mobile development <br>⭐MOIS company member
 
 
 ## 🌐 Socials:
