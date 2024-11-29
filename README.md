@@ -21,6 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=angelzd27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+<img src="https://raw.githubusercontent.com/angelzd27/angelzd27/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=angelzd27&icon=9&color=1)](https://visitcount.itsvg.in)
 
